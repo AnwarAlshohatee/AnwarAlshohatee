@@ -75,8 +75,8 @@ An early-stage interactive therapy platform concept designed to help mental heal
 ## Connect With Me
 
 - **GitHub:** [AnwarAlshohatee](https://github.com/AnwarAlshohatee)
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your preferred professional contact email
+- **LinkedIn:** linkedin.com/in/anwaralshohatee
+- **Email:** anwaralshoh@gmail.com
 
 ---
 
